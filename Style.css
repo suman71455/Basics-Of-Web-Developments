@@ -1,0 +1,50 @@
+/* Basic Styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    color: #333;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Heading style */
+h1 {
+    color: #2e8b57;
+}
+
+/* Paragraph spacing and font */
+p {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+/* Link styling */
+a {
+    color: #1e90ff;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+/* Image styling */
+img {
+    margin-top: 20px;
+    border-radius: 8px;
+    width: 300px;
+}
+
+/* Button styling */
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #45a049;
+}
